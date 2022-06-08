@@ -1,0 +1,11 @@
+Type: Compendium
+Package: rbinder
+Version: 0.0.1
+Authors@R: 
+    person("Stephen", "Turner", role = c("aut", "cre"), comment = c(ORCID = "0000-0001-9140-9028"))
+Description: R Binder demonstration
+License: GPL (>= 3)
+Depends: 
+    dplyr
+Encoding: UTF-8
+LazyData: true
